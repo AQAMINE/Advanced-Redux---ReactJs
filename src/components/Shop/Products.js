@@ -15,7 +15,7 @@ const DUMMY_PRODUCTS = [
     description: 'The 2 book i ever wrote',
   },
   {
-    id: 'p2',
+    id: 'p3',
     price: 11,
     title: 'My 3 book',
     description: 'The 3 book i ever wrote',
